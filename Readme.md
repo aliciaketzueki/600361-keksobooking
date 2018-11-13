@@ -1,7 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Мартова](https://up.htmlacademy.ru/javascript/16/user/600361).
-* Наставник: `Неизвестно`.
 
 ---
 
